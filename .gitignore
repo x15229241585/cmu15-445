@@ -2,4 +2,4 @@ ref/
 slides/
 md_courts
 cmake-build-debug/
-project/.idea/
+.idea/
