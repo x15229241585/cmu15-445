@@ -1,5 +1,7 @@
 [CMU 15-445/645 (Fall 2017) Database Systems](http://15445.courses.cs.cmu.edu/fall2017/). A course on the design and implementation of database management systems.
 
+remove the implemention from before
+
 ## Projects
 
 - [ ] Project 1 - Buffer Pool
@@ -14,7 +16,7 @@
 
 ## Homeworks
 
-- [x] Homework 1 - SQL
+- [ ] Homework 1 - SQL
 
 - [ ] Homework 2 - Normal Forms
 
